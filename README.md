@@ -101,9 +101,6 @@ with obyn, you can see how your server's been doing over time.
 <!-- getting started -->
 ## getting started
 
-this is an example of how you may give instructions on setting up your project locally.
-to get a local copy up and running follow these simple example steps.
-
 ### prerequisites
 
 * python
@@ -126,15 +123,15 @@ to get a local copy up and running follow these simple example steps.
 
 
 
-<!-- usage examples -->
+<!-- usage examples
 ## usage
 
 use this space to show useful examples of how a project can be used. additional screenshots, code examples and demos work well in this space. you may also link to more resources.
 
-_for more examples, please refer to the [documentation](https://example.com)_
+_for more examples, please refer to the [documentation](https://example.com)_ -->
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
