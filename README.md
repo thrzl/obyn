@@ -79,11 +79,11 @@
 <!-- about the project -->
 ## about the project
 
-[![product name screen shot][product-screenshot]](https://example.com)
+<!-- [![product name screen shot][product-screenshot]](https://example.com) -->
 
 obyn scrolls through your logs so you don't have to.
 
-here's a blank template to get started: to avoid retyping too much info. do a search and replace with your text editor for the following: `terabyte3`, `obyn`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+with obyn, you can see how your server's been doing over time.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
