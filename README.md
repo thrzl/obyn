@@ -17,13 +17,11 @@
 *** for contributors-url, forks-url, etc. this is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<center>
-  [![contributors][contributors-shield]][contributors-url]
-  [![forks][forks-shield]][forks-url]
-  [![stargazers][stars-shield]][stars-url]
-  [![issues][issues-shield]][issues-url]
-  [![mit license][license-shield]][license-url]
-</center>
+[![contributors][contributors-shield]][contributors-url]
+[![forks][forks-shield]][forks-url]
+[![stargazers][stars-shield]][stars-url]
+[![issues][issues-shield]][issues-url]
+[![mit license][license-shield]][license-url]
 
 
 
